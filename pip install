@@ -1,0 +1,64 @@
+py -m pip download google.generativeai
+py -m pip download discord.py
+py -m pip download aiohttp
+py -m pip download python-dotenv
+py -m pip download requests
+py -m pip download pathlib
+py -m pip download bardapi
+py -m pip download discord
+
+py -m pip install google.generativeai
+py -m pip install discord.py
+py -m pip install aiohttp
+py -m pip install python-dotenv
+py -m pip install requests
+py -m pip install pathlib
+py -m pip install bardapi
+py -m pip install discord
+
+
+py -m pip install --upgrade google.generativeai
+py -m pip install --upgrade aiohttp
+py -m pip install --upgrade requests
+py -m pip install --upgrade bardapi
+py -m pip install --upgrade discord
+py -m pip install --upgrade pathlib
+py -m pip install --upgrade python-dotenv
+py -m pip install --upgrade discord.py
+
+
+
+
+
+
+
+
+
+
+pip download google.generativeai
+pip download discord.py
+pip download aiohttp
+pip download python-dotenv
+pip download requests
+pip download pathlib
+pip download bardapi
+pip download discord
+
+pip install google.generativeai
+pip install discord.py
+pip install aiohttp
+pip install python-dotenv
+pip install requests
+pip install pathlib
+pip install bardapi
+pip install discord
+
+
+pip install --upgrade google.generativeai
+pip install --upgrade aiohttp
+pip install --upgrade requests
+pip install --upgrade bardapi
+pip install --upgrade discord
+pip install --upgrade pathlib
+pip install --upgrade python-dotenv
+pip install --upgrade discord.py
